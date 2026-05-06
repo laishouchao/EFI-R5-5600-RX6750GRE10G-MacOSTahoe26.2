@@ -6,3 +6,5 @@
 5. AX210
 
 显卡WIFI蓝牙正常驱动
+
+https://github.com/laishouchao/EFI-R5-5600-RX6750GRE10G-MacOSTahoe26.2/releases
